@@ -21,7 +21,9 @@ The console is a simple command line interface that allows you to interact with 
 | 10. Console 1.0 | [console.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/console.py) [/models/engine/file_storage.py](https://github.com/justinmajetich/AirBnB_clone/blob/dev/models/engine/file_storage.py) | Update the console and file storage system to work dynamically with all  classes update file storage |
 <br>
 <br>
+
 ## Environment
+
 This project is interpreted/tested on Ubuntu 20.04.6 LTS using python3 (version 3.8.10)
 <center> <h2>General Use</h2> </center>
 
